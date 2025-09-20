@@ -1,8 +1,8 @@
 spec:
-  name: sample-springboot
+  name: test rf1
   services:
   - dockerfile_path: Dockerfile
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-spring-boot.git
-    name: sample-springboot
+      repo_clone_url: https://github.com/Invoice-fe/sample-spring-boot.git
+    name: test rf
